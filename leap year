@@ -1,0 +1,7 @@
+year=2045
+if(year%4==0):
+print("this a leap year")
+elif(year%400==0):
+print("this is a leap year")
+else:
+print("not a leap year")
